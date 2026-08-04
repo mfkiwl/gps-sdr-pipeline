@@ -1,5 +1,13 @@
 # GPS SDR DSP Pipeline
 
+<!-- badges -->
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![TeX](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![last commit](https://img.shields.io/github/last-commit/adzetto/gps-sdr-pipeline?style=flat-square&color=informational) ![repo size](https://img.shields.io/github/repo-size/adzetto/gps-sdr-pipeline?style=flat-square&color=informational) ![top language](https://img.shields.io/github/languages/top/adzetto/gps-sdr-pipeline?style=flat-square) ![language count](https://img.shields.io/github/languages/count/adzetto/gps-sdr-pipeline?style=flat-square)
+
+
 <div align="center">
   <img src="logo/logo.svg" alt="GPS SDR Pipeline Logo" width="480">
 </div>
